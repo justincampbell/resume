@@ -8,7 +8,13 @@
 ### Systems Engineer
 #### Volpe and Koenig, Philadelphia, PA
 ##### 06/2007--Present
-* Test
+* Virtualization (VMware ESX, Equallogic SAN)
+* Purchased and supported Cisco IP telephony system (CUCM, Unity)
+* Design and project management of datacenter buildout
+* Redesigned network (30+ Cisco devices, Catalyst 4500, wireless)
+* VPN/Branch offices
+* Custom web apps (PHP/CodeIgniter/jQuery)
+* Exchange, SQL
 
 ### Application Support Engineer
 #### CIGNA/Intracorp, Philadelphia, PA
@@ -55,8 +61,9 @@
 * Installed servers into racks in high security data-center
 
 ##  Certifications
-* Microsoft MCSE Certified
-* CompTIA A+ Certified
+* VMware VCP
+* Microsoft MCSE
+* CompTIA A+
 
 ##  Education
 ### Network Systems Professional
