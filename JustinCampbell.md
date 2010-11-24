@@ -5,9 +5,12 @@
 > cmsjustin@gmail.com
 
 ## Employment
+
 ### Systems Engineer
-#### Volpe and Koenig, Philadelphia, PA
-##### 06/2007--Present
+> Volpe and Koenig, P.C.  
+> Philadelphia, PA  
+> 06/2007--Present
+
 * Virtualization (VMware ESX, Equallogic SAN)
 * Purchased and supported Cisco IP telephony system (CUCM, Unity)
 * Design and project management of datacenter buildout
@@ -17,16 +20,20 @@
 * Exchange, SQL
 
 ### Application Support Engineer
-#### CIGNA/Intracorp, Philadelphia, PA
-##### 05/2006--04/2007
+> CIGNA/Intracorp  
+> Philadelphia, PA  
+> 05/2006--04/2007
+
 * Supported in-house application used by over 750 internal remote workers
 * Provided support to external application lease customers
 * Interfaced with development team to establish fixes for ongoing issues
 * Developed scripts to simplify and streamline the support process
 
 ### Desktop Support Engineer
-#### GHR Systems, Wayne, PA
-##### 12/2004--01/2006
+> GHR Systems  
+> Wayne, PA  
+> 12/2004--01/2006
+
 * Managed Active Directory for corporate HQ and 2 production data centers
 * Created and deployed WSH and batch scripts for servers and desktop users
 * Deployed and supported 40 Blackberry devices and BES server
@@ -36,13 +43,17 @@
 * Assisted with Linux issues/deployments
 
 ### Desktop Support Engineer
-#### PJM Interconnection, Norristown, PA
-##### 10/2004--12/2004
+> PJM Interconnection  
+> Norristown, PA  
+> 10/2004--12/2004
+
 * Supported 750 users at corporate headquarters
 
 ### Project Manager
-#### U-Combination Technology, Plymouth Meeting, PA
-##### 09/2003--10/2004
+> U-Combination Technology  
+> Plymouth Meeting, PA  
+> 09/2003--10/2004
+
 * Network designs were chosen to be used in 9 bids for 2004; awarded over $1 million in federal contracts
 * Coordinated implementations with customers, contractors, and internal resources
 * Designed and implemented WLANs, setup RADIUS servers
@@ -51,23 +62,30 @@
 * General design and implementation of surveillance systems
 
 ### Move Support Technician
-#### Wyeth Pharmaceuticals, Collegeville, PA
-##### 05/2003--09/2003	
+> Wyeth Pharmaceuticals  
+> Collegeville, PA  
+> 05/2003--09/2000
+
 * Supported 5000 users moving to new location
 
 ### Server Move Technician
-#### Vanguard Group, Philadelphia, PA
-##### 06/2003--08/2003
+> Vanguard Group  
+> Philadelphia, PA  
+> 06/2003--08/2003
+
 * Installed servers into racks in high security data-center
 
 ##  Certifications
+
 * VMware VCP
 * Microsoft MCSE
 * CompTIA A+
 
 ##  Education
 ### Network Systems Professional
-#### Cittone Institute, Plymouth Meeting, PA
-##### 05/2003
+> Cittone Institute  
+> Plymouth Meeting, PA  
+> 05/2003
+
 * Graduated with a 4.0 GPA
 * Trained on AD, DNS, DHCP, and advanced networking concepts
