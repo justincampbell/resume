@@ -2,9 +2,9 @@
 > 28 E Lancaster Ave Apt B1  
 > Ardmore, PA 19003  
 > (215) 586-3180  
-> justin@justincampbell.me  
-> github.com/JustinCampbell  
-> twitter.com/JustinCampbell
+> [justin@justincampbell.me](mailto:justin@justincampbell.me)  
+> [GitHub](http://github.com/JustinCampbell)  
+> [Twitter](http://twitter.com/JustinCampbell)
 
 ## Employment
 
