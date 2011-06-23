@@ -8,10 +8,22 @@
 
 ## Employment
 
+### Ruby/AWS Developer
+> Movitas  
+> Bryn Mawr, PA  
+> 12/2010--Present
+
+* Built VoIP solution using Asterisk
+  * Dashboard and API built with Rails
+  * Dialplan logic written in Ruby (Adhearsion)
+  * Deployed on Amazon Web Services (EC2, ELB, RDS, AS)
+* Directed development of iPhone applications
+* Moved company from SVN to Git
+
 ### Systems Engineer
 > Volpe and Koenig, P.C.  
 > Philadelphia, PA  
-> 06/2007--Present
+> 06/2007--12/2010
 
 * Virtualization (VMware ESX, Equallogic SAN)
 * Purchased and supported Cisco IP telephony system (CUCM, Unity)

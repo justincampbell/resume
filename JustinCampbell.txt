@@ -7,6 +7,17 @@ github.com/JustinCampbell
 twitter.com/JustinCampbell
 
 Employment
+
+Ruby/AWS Developer
+Movitas, Bryn Mawr, PA
+12/2010-Present
+- Built VoIP solution using Asterisk
+  - Dashboard and API built with Rails
+  - Dialplan logic written in Ruby (Adhearsion)
+  - Deployed on Amazon Web Services (EC2, ELB, RDS, AS)
+- Directed development of iPhone applications
+- Moved company from SVN to Git
+
 Systems Engineer
 Volpe and Koenig, Philadelphia, PA
 06/2007-Present
