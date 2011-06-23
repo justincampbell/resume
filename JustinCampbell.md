@@ -1,8 +1,10 @@
 # Justin Campbell
 > 28 E Lancaster Ave Apt B1  
 > Ardmore, PA 19003  
-> (484) 686-3735  
-> cmsjustin@gmail.com
+> (215) 586-3180  
+> justin@justincampbell.me  
+> github.com/JustinCampbell  
+> twitter.com/JustinCampbell
 
 ## Employment
 
