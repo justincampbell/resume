@@ -78,7 +78,7 @@
 ### Move Support Technician
 > Wyeth Pharmaceuticals  
 > Collegeville, PA  
-> 05/2003--09/2000
+> 05/2003--09/2003
 
 * Supported 5000 users moving to new location
 
