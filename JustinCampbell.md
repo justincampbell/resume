@@ -17,6 +17,7 @@
   * Dashboard and API built with Rails
   * Dialplan logic written in Ruby (Adhearsion)
   * Deployed on Amazon Web Services (EC2, ELB, RDS, AS)
+* Created Ruby Gem for international dialing ([as_dialed_from](http://github.com/Movitas/as_dialed_from))
 * Directed development of iPhone applications
 
 ### Systems Engineer
