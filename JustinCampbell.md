@@ -18,7 +18,6 @@
   * Dialplan logic written in Ruby (Adhearsion)
   * Deployed on Amazon Web Services (EC2, ELB, RDS, AS)
 * Directed development of iPhone applications
-* Moved company from SVN to Git
 
 ### Systems Engineer
 > Volpe and Koenig, P.C.  
