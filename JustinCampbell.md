@@ -1,6 +1,6 @@
 # Justin Campbell
-> 28 E Lancaster Ave Apt B1  
-> Ardmore, PA 19003  
+> 2098 Butler Pike Apt W1  
+> Plymouth Meeting, PA  
 > (215) 586-3180  
 > [justin@justincampbell.me](mailto:justin@justincampbell.me)  
 > [GitHub](http://github.com/JustinCampbell)  
