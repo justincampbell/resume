@@ -6,6 +6,11 @@
 > [GitHub](http://github.com/JustinCampbell)  
 > [Twitter](http://twitter.com/JustinCampbell)
 
+## Open Source Work
+* [schlep](http://github.com/Movitas/schlep) Simple event notification, processing, and storage using Redis, MongoDB and Node.js
+* [schlep-ruby](http://github.com/Movitas/schlep-ruby) Ruby gem client for Schlep
+* [as_dialed_from](http://github.com/Movitas/as_dialed_from) Ruby gem that formats phone numbers for dialing one country from another
+
 ## Employment
 
 ### Ruby/AWS Developer
@@ -17,7 +22,6 @@
     * Dashboard and API built with Rails
     * Dialplan logic written in Ruby (Adhearsion)
     * Deployed on Amazon Web Services (EC2, ELB, RDS, AS)
-* Created Ruby Gem for international dialing ([as_dialed_from](http://github.com/Movitas/as_dialed_from))
 * Directed development of iPhone applications
 
 ### Systems Engineer
