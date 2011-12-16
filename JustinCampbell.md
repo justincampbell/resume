@@ -1,6 +1,5 @@
 # Justin Campbell
-> 2098 Butler Pike Apt W1  
-> Plymouth Meeting, PA  
+> Conshohocken, PA  
 > (215) 586-3180  
 > [justin@justincampbell.me](mailto:justin@justincampbell.me)  
 > [GitHub](http://github.com/JustinCampbell)  
