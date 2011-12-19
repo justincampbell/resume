@@ -64,13 +64,6 @@
 * Exchange and SQL deployment and support
 * Assisted with Linux issues/deployments
 
-### Desktop Support Engineer
-> PJM Interconnection  
-> Norristown, PA  
-> 10/2004--12/2004
-
-* Supported 750 users at corporate headquarters
-
 ### Project Manager
 > U-Combination Technology  
 > Plymouth Meeting, PA  
@@ -83,19 +76,10 @@
 * Configured and deployed Cisco T1 CPE
 * General design and implementation of surveillance systems
 
-### Move Support Technician
-> Wyeth Pharmaceuticals  
-> Collegeville, PA  
-> 05/2003--09/2003
-
-* Supported 5000 users moving to new location
-
-### Server Move Technician
-> Vanguard Group  
-> Philadelphia, PA  
-> 06/2003--08/2003
-
-* Installed servers into racks in high security data-center
+### Contract Positions
+* **PJM Interconnection:** Supported 750 users at corporate headquarters
+* **Wyeth Pharmaceuticals:** Supported 5000 users moving to new location
+* **Vanguard Group:** Installed servers into racks in high security data-center
 
 ##  Certifications
 
