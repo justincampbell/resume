@@ -9,6 +9,10 @@
 * [schlep](http://github.com/Movitas/schlep) Simple event notification, processing, and storage using Redis, MongoDB and Node.js
 * [schlep-ruby](http://github.com/Movitas/schlep-ruby) Ruby gem client for Schlep
 * [as_dialed_from](http://github.com/Movitas/as_dialed_from) Ruby gem that formats phone numbers for dialing one country from another
+* Contributions
+    * [rails](http://github.com/rails/rails) Ruby on Rails framework
+    * [easystats](http://github.com/mgrigajtis/easystats) Easy-to-use statistical functions
+    * [yahoo_stock](http://github.com/nas/yahoo_stock) Provides an interface to Yahoo! Finance for stock-related data
 
 ## Employment
 
