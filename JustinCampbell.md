@@ -81,13 +81,13 @@
 * **Wyeth Pharmaceuticals:** Supported 5000 users moving to new location
 * **Vanguard Group:** Installed servers into racks in high security data-center
 
-##  Certifications
+## Certifications
 
 * VMware VCP
 * Microsoft MCSE
 * CompTIA A+
 
-##  Education
+## Education
 ### Network Systems Professional
 > Cittone Institute  
 > Plymouth Meeting, PA  
