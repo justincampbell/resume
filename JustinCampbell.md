@@ -17,10 +17,14 @@
 
 ## Employment
 
-### Ruby/AWS Developer
+### Ruby Developer
+> [Cramer Dev](http://cramerdev.com)  
+> 02/2012--Present
+
+### Ruby Developer
 > Movitas  
 > Bryn Mawr, PA  
-> 12/2010--Present
+> 12/2010--02/2012
 
 * Built VoIP solution using Asterisk
     * Dashboard and API built with Rails
