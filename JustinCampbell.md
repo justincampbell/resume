@@ -7,6 +7,7 @@
 > [Twitter](http://twitter.com/JustinCampbell)
 
 ## Open Source Work
+* [capistrano-notifier](https://github.com/CramerDev/capistrano-notifier) Simple notification hooks for Capistrano
 * [schlep](http://github.com/Movitas/schlep) Simple event notification, processing, and storage using Redis, MongoDB and Node.js
 * [schlep-ruby](http://github.com/Movitas/schlep-ruby) Ruby gem client for Schlep
 * [as_dialed_from](http://github.com/Movitas/as_dialed_from) Ruby gem that formats phone numbers for dialing one country from another
