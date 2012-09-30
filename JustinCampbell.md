@@ -18,11 +18,18 @@
 
 ## Employment
 
-### Ruby Developer
-> [Cramer Dev](http://cramerdev.com)  
-> 02/2012--Present
+### Software Developer
+> [Mashion](http://mashion.net)  
+> 10/2012--Present
 
-### Ruby Developer
+### Software Developer
+> Cramer Dev  
+> 02/2012--09/2012
+
+* Helped build and launch a Rails app serving 125 requests/sec
+* Focused on testing, good object-oriented design, and agile development
+
+### Software Developer
 > Movitas  
 > Bryn Mawr, PA  
 > 12/2010--02/2012
@@ -32,6 +39,7 @@
     * Dialplan logic written in Ruby (Adhearsion)
     * Deployed on Amazon Web Services (EC2, ELB, RDS, AS)
 * Directed development of iPhone applications
+* Helped improve overall development process
 
 ### Systems Engineer
 > Volpe and Koenig, P.C.  
