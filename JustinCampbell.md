@@ -1,4 +1,5 @@
 # Justin Campbell
+
 > Conshohocken, PA  
 > (215) 586-3180  
 > [justin@justincampbell.me](mailto:justin@justincampbell.me)  
@@ -29,12 +30,14 @@ More Open Source work can be found on [GitHub](http://github.com/justincampbell)
 ## Employment
 
 ### Software Developer
+
 > [Mashion](http://mashion.net)  
 > 10/2012--Present
 
 * Riot Games
 
 ### Software Developer
+
 > Cramer Dev  
 > 02/2012--09/2012
 
@@ -42,6 +45,7 @@ More Open Source work can be found on [GitHub](http://github.com/justincampbell)
 * Focused on testing, good object-oriented design, and agile development
 
 ### Software Developer
+
 > Movitas  
 > Bryn Mawr, PA  
 > 12/2010--02/2012
@@ -54,6 +58,7 @@ More Open Source work can be found on [GitHub](http://github.com/justincampbell)
 * Helped improve overall development process
 
 ### Systems Engineer
+
 > Volpe and Koenig, P.C.  
 > Philadelphia, PA  
 > 06/2007--12/2010
@@ -67,6 +72,7 @@ More Open Source work can be found on [GitHub](http://github.com/justincampbell)
 * Exchange, SQL
 
 ### Application Support Engineer
+
 > CIGNA/Intracorp  
 > Philadelphia, PA  
 > 05/2006--04/2007
@@ -77,6 +83,7 @@ More Open Source work can be found on [GitHub](http://github.com/justincampbell)
 * Developed scripts to simplify and streamline the support process
 
 ### Desktop Support Engineer
+
 > GHR Systems  
 > Wayne, PA  
 > 12/2004--01/2006
@@ -90,6 +97,7 @@ More Open Source work can be found on [GitHub](http://github.com/justincampbell)
 * Assisted with Linux issues/deployments
 
 ### Project Manager
+
 > U-Combination Technology  
 > Plymouth Meeting, PA  
 > 09/2003--10/2004
@@ -102,6 +110,7 @@ More Open Source work can be found on [GitHub](http://github.com/justincampbell)
 * General design and implementation of surveillance systems
 
 ### Contract Positions
+
 * **PJM Interconnection:** Supported 750 users at corporate headquarters
 * **Wyeth Pharmaceuticals:** Supported 5000 users moving to new location
 * **Vanguard Group:** Installed servers into racks in high security data-center
@@ -113,7 +122,9 @@ More Open Source work can be found on [GitHub](http://github.com/justincampbell)
 * CompTIA A+
 
 ## Education
+
 ### Network Systems Professional
+
 > Cittone Institute  
 > Plymouth Meeting, PA  
 > 05/2003
