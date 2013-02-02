@@ -6,15 +6,25 @@
 > [GitHub](http://github.com/JustinCampbell)  
 > [Twitter](http://twitter.com/JustinCampbell)
 
-## Open Source Work
+## Open Source
+
+### Projects
+
+* [as_dialed_from](http://github.com/Movitas/as_dialed_from) Ruby gem that formats phone numbers for dialing one country from another
 * [capistrano-notifier](https://github.com/CramerDev/capistrano-notifier) Simple notification hooks for Capistrano
 * [schlep](http://github.com/Movitas/schlep) Simple event notification, processing, and storage using Redis, MongoDB and Node.js
 * [schlep-ruby](http://github.com/Movitas/schlep-ruby) Ruby gem client for Schlep
-* [as_dialed_from](http://github.com/Movitas/as_dialed_from) Ruby gem that formats phone numbers for dialing one country from another
-* Contributions
-    * [rails](http://github.com/rails/rails) Ruby on Rails framework
-    * [easystats](http://github.com/mgrigajtis/easystats) Easy-to-use statistical functions
-    * [yahoo_stock](http://github.com/nas/yahoo_stock) Provides an interface to Yahoo! Finance for stock-related data
+* [tp](http://github.com/justincampbell/tp) Presents Markdown in your terminal
+
+### Contributions
+
+* [berkshelf](http://github.com/RiotGames/berkshelf) Manage Chef cookbook dependencies
+* [celluloid](http://github.com/celluloid/celluloid) Actor-based concurrent object framework for Ruby
+* [rails](http://github.com/rails/rails) Ruby on Rails framework
+* [easystats](http://github.com/mgrigajtis/easystats) Easy-to-use statistical functions
+* [yahoo_stock](http://github.com/nas/yahoo_stock) Provides an interface to Yahoo! Finance for stock-related data
+
+More Open Source work can be found on [GitHub](http://github.com/justincampbell)
 
 ## Employment
 
