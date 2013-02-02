@@ -1,6 +1,6 @@
 # Justin Campbell
 
-> Conshohocken, PA  
+> Philadelphia  
 > (215) 586-3180  
 > [justin@justincampbell.me](mailto:justin@justincampbell.me)  
 > [justincampbell.me/resume](http://justincampbell.me/resume)  
