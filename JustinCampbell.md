@@ -22,6 +22,8 @@
 > [Mashion](http://mashion.net)  
 > 10/2012--Present
 
+* Riot Games
+
 ### Software Developer
 > Cramer Dev  
 > 02/2012--09/2012
