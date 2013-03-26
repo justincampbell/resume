@@ -4,8 +4,8 @@
 > (215) 586-3180  
 > [justin@justincampbell.me](mailto:justin@justincampbell.me)  
 > [justincampbell.me/resume](http://justincampbell.me/resume)  
-> [GitHub](http://github.com/JustinCampbell)  
-> [Twitter](http://twitter.com/JustinCampbell)
+> [GitHub](http://github.com/justincampbell)  
+> [Twitter](http://twitter.com/justincampbell)
 
 ## Employment
 
