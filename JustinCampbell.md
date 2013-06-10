@@ -22,6 +22,7 @@
 > Cramer Dev  
 > 02/2012--09/2012
 
+* Worked on client projects to deliver features
 * Helped build and launch a Rails app serving 125 requests/sec
 * Focused on testing, good object-oriented design, and agile development
 
