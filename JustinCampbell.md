@@ -14,7 +14,8 @@
 > [Mashion](http://mashion.net)  
 > 10/2012--Present
 
-* Riot Games
+* Helped build open-source devops tooling using Ruby
+* Worked with other teams to prescribe a process for automating their infrastructure
 
 ### Software Developer
 
