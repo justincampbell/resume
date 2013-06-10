@@ -11,7 +11,8 @@
 
 ### Software Developer
 
-> [Mashion](http://mashion.net)  
+> Riot Games (Mashion)  
+> Remote  
 > 10/2012--Present
 
 * Helped build open-source devops tooling using Ruby
@@ -20,6 +21,7 @@
 ### Software Developer
 
 > Cramer Dev  
+> Remote  
 > 02/2012--09/2012
 
 * Worked on client projects to deliver features
