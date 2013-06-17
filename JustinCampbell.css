@@ -1,0 +1,25 @@
+@import url(http://fonts.googleapis.com/css?family=Pacifico);
+
+* {
+  color: #111111;
+}
+
+h1 {
+  color: #ff8000;
+  float: left;
+  font-family: Pacifico;
+  font-weight: normal;
+  font-size: 3.6em;
+  line-height: normal;
+  margin: 0 1em 0.5em 0;
+}
+
+h2, h3, h4, h5, h6 {
+  clear: both;
+  font-weight: normal;
+}
+
+a {
+  color: #111111;
+  text-decoration: none;
+}
