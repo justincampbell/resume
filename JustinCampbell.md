@@ -14,7 +14,7 @@
 > Remote  
 > 10/2012--Present
 
-* Helped build open-source devops tooling using Ruby
+* Built open-source devops tooling using Ruby
 * Worked with other teams to prescribe a process for automating their infrastructure
 
 ### Software Developer
