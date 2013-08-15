@@ -10,9 +10,15 @@
 
 ### Software Developer
 
+> Sungard (Comcast)  
+> Philadelphia, PA  
+> 07/2013--Present
+
+### Software Developer
+
 > Riot Games (Mashion)  
 > Remote  
-> 10/2012--Present
+> 10/2012--06/2013
 
 * Built open-source devops tooling using Ruby
 * Worked with other teams to prescribe a process for automating their infrastructure
