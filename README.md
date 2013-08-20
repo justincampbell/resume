@@ -11,5 +11,5 @@ bundle
 rake
 
 # Upload
-rake uplaod
+rake upload
 ```
