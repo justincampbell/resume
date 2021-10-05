@@ -7,11 +7,22 @@
 
 ## Employment
 
+### Software Consultant
+
+> VTS (Open Throttle)  
+> Remote  
+> 11/2020--Present
+
+Ruby, Rails, React
+
+* Software consultant engaged on a Rails/React projects for a Commercial Real Estate software platform.
+* Oversaw architecture and implementation for new product features using gRPC and ElasticSearch.
+
 ### Software Engineer
 
 > HashiCorp  
 > Remote  
-> 03/2015--Present
+> 03/2015--11/2020
 
 Go, Ruby, Rails, Ember.js, AWS, Heroku
 
@@ -20,7 +31,7 @@ Go, Ruby, Rails, Ember.js, AWS, Heroku
 * Managed project planning for a team of 7.
 * Built much of the early functionality end-to-end for Terraform Cloud (formerly Atlas/Terraform Enterprise).
 
-### Software Developer (Contract)
+### Software Consultant
 
 > Sungard Availability Services (PromptWorks)  
 > Philadelphia, PA  
@@ -30,7 +41,7 @@ Ruby, Rails, Python, Django, OpenStack
 
 * Helped create a cloud management platform on top of OpenStack.
 
-### Software Developer (Contract)
+### Software Consultant
 
 > Comcast (Sungard Consulting Services)  
 > Philadelphia, PA  
@@ -40,7 +51,7 @@ Ruby, Rails
 
 * Built IoT portal for Comcast Xfinity Home customers.
 
-### Software Developer
+### Software Consultant
 
 > Riot Games (Mashion)  
 > Remote  
@@ -51,7 +62,7 @@ Ruby, Chef
 * Built open-source Chef tooling (Berkshelf) using Ruby.
 * Worked with other teams to prescribe a process for automating their infrastructure.
 
-### Software Developer
+### Software Engineer
 
 > Cramer Dev  
 > Remote  
@@ -63,7 +74,7 @@ Ruby, Rails
 * Helped build and launch a Rails app serving 125 requests/sec.
 * Focused on testing, good object-oriented design, and agile development.
 
-### Software Developer
+### Software Engineer
 
 > Movitas  
 > Bryn Mawr, PA  
