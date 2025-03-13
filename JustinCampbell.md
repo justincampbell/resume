@@ -11,8 +11,7 @@
 
 Go, React, GCP
 
-* Introduce CI/CD, unit tests, and feature flags to existing Go microservices codebase.
-* Built licensing framework for mobile SDKs.
+* Introduced CI/CD, unit tests, and feature flags to existing Go microservices codebase.
 
 ### VTS (Open Throttle) <br><small>Senior Software Consultant</small>
 
