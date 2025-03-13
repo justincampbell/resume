@@ -2,7 +2,6 @@
 
 > [justin@justincampbell.me](mailto:justin@justincampbell.me)  
 > [github.com/justincampbell](https://github.com/justincampbell)  
-> [twitter.com/justincampbell](https://twitter.com/justincampbell)  
 > [calendly.com/justincampbell](https://calendly.com/justincampbell/meet)
 
 ### Passio AI <br><small>Senior Software Engineer</small>
