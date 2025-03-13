@@ -4,6 +4,28 @@
 > [github.com/justincampbell](https://github.com/justincampbell)  
 > [calendly.com/justincampbell](https://calendly.com/justincampbell/meet)
 
+### GitHub <br><small>Staff Software Engineer</small>
+
+> Remote  
+> 08/2022 -- 02/2025 (2½ years)
+
+Go, Ruby, Rails, OpenAI, Kafka, Twirp/Protobuf, Azure, Kusto, Datadog
+
+* Copilot (and also Copilot Business/Copilot Enterprise)
+    * Designed user configuration storage and propagation.
+    * Added Copilot support to "GitHub Enterprise Cloud with data residency".
+    * Implemented hostname-based SKU isolation for GitHub Enterprise customers.
+* Copilot Custom Models
+    * Architected and implemented customer model authorization and routing system.
+    * Directed a staffship program, delivering a custom Copilot model to all GitHub staff.
+    * Created data pipelines and dashboards, enabling custom model telemetry to be discoverable by the Product and Sales teams.
+    * Analyzed customer telemetry/acceptance rate of candidate models and suggested training improvements.
+    * Managed QA program for finding bugs and edge cases before private customer beta.
+* Copilot Availability Champ
+    * Responsible for ensuring and improving the uptime of all Copilot experiences.
+    * Improved observability and monitoring of Copilot services.
+    * Ran weekly availability review meeting and produced reports of Copilot availability for leadership.
+
 ### Passio AI <br><small>Senior Software Engineer</small>
 
 > Remote  
