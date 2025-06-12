@@ -2,7 +2,7 @@
 
 > [justin@justincampbell.me](mailto:justin@justincampbell.me)  
 > [github.com/justincampbell](https://github.com/justincampbell)  
-> [calendly.com/justincampbell](https://calendly.com/justincampbell/meet)
+> [cal.com/justincampbell](https://cal.com/justincampbell/meet)
 
 ### GitHub <br><small>Staff Software Engineer</small>
 
