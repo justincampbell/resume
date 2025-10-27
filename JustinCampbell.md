@@ -11,8 +11,6 @@
 
 Ruby, Rails, Hotwire
 
-* TBD
-
 ### GitHub <br><small>Staff Software Engineer</small>
 
 > Remote  
