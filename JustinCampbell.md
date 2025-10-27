@@ -1,7 +1,7 @@
 # Justin Campbell
 
-> [justin@justincampbell.me](mailto:justin@justincampbell.me)
-> [github.com/justincampbell](https://github.com/justincampbell)
+> [justin@justincampbell.me](mailto:justin@justincampbell.me)  
+> [github.com/justincampbell](https://github.com/justincampbell)  
 > [cal.com/justincampbell](https://cal.com/justincampbell/meet)
 
 ### Huntress <br><small>Staff Software Engineer</small>
