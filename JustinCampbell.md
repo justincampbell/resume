@@ -9,7 +9,7 @@
 > Remote
 > 09/2025 -- Present (1 month)
 
-Technologies: TBD
+Ruby, Rails, Hotwire
 
 * TBD
 
