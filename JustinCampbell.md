@@ -1,8 +1,17 @@
 # Justin Campbell
 
-> [justin@justincampbell.me](mailto:justin@justincampbell.me)  
-> [github.com/justincampbell](https://github.com/justincampbell)  
+> [justin@justincampbell.me](mailto:justin@justincampbell.me)
+> [github.com/justincampbell](https://github.com/justincampbell)
 > [cal.com/justincampbell](https://cal.com/justincampbell/meet)
+
+### Huntress <br><small>Staff Software Engineer</small>
+
+> Remote
+> 09/2025 -- Present (1 month)
+
+Technologies: TBD
+
+* TBD
 
 ### GitHub <br><small>Staff Software Engineer</small>
 
