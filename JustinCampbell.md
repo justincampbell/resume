@@ -4,6 +4,13 @@
 > [github.com/justincampbell](https://github.com/justincampbell)  
 > [cal.com/justincampbell](https://cal.com/justincampbell/meet)
 
+### Huntress <br><small>Staff Software Engineer</small>
+
+> Remote
+> 09/2025 -- Present
+
+Ruby, Rails, RubyLLM, Anthropic, Datadog
+
 ### GitHub <br><small>Staff Software Engineer</small>
 
 > Remote  
